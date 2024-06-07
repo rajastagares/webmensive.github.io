@@ -176,7 +176,7 @@ h2 {
 
 .container-fluid .container h2 {
     overflow-y: hidden;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Didot', cursive;
     text-align: center;
     line-height: 3rem;
     text-decoration: underline overline solid #333;
@@ -188,7 +188,7 @@ h2 {
     text-align: center;
     font-size: 18px;
     line-height: 1.8rem;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Verdana', cursive;
     font-weight: bold;
     word-spacing: 0.4rem;
     letter-spacing: 0.08rem;
